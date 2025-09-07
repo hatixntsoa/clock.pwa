@@ -1,7 +1,7 @@
 {
   "name": "Digital Clock",
   "short_name": "Clock",
-  "start_url": "/clock_pwa/index.html",
+  "start_url": "/clock.pwa/index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000"
