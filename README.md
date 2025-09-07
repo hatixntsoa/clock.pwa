@@ -2,8 +2,7 @@
 
 - Installation on **Linux Apache Server**  
 ```shell
-git clone https://github.com/hatixntsoa/clock.pwa
-mv chrome_pwa /var/www/html
+git clone https://github.com/hatixntsoa/clock.pwa /var/www/hmtl
 ```
 Start the Apache Server, it will be available on
 [localhost/clock.pwa](http://localhost/clock.pwa)  
