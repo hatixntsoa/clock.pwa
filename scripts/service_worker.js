@@ -2,8 +2,8 @@ const CACHE_NAME = 'digital-clock-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/style.css',
-  '/clock.js',
+  'style/style.css',
+  'scripts/clock.js',
 ];
 
 self.addEventListener('install', (event) => {
